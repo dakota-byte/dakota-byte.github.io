@@ -6,7 +6,7 @@ categories: [Notes]
 
 a cheat sheet i wrote for myself :)
 
-<img src="/img/Data Structure Operations.png"/>
+<img src="assets/img/Data Structure Operations.png"/>
 
 ###### Image: [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
 
@@ -54,7 +54,7 @@ Cons: Slow insertion/deletion (must recreate array), Uses extra memory
 
 Using a LinkedList is identical to how you'd use an ArrayList, but they are coded differently. While an ArrayList uses an array to store data, LinkedList store data in objects, with a reference to the next link.
   
-<img src="/img/LinkedList-implemenation-java.png"/>
+<img src="assets/img/LinkedList-implemenation-java.png"/>
   
 ###### Image: [Programiz](https://www.programiz.com/java-programming/linkedlist)
 

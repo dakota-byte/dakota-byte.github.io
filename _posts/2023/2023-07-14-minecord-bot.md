@@ -25,24 +25,24 @@ Something I'm very proud of is using a little bit of photoshop and Pillow (Pytho
 
 ## Screenshots of the game & Backend
 
-<img src="/img/image1.png"/>
+<img src="assets/img/image1.png"/>
 
-<img src="/img/image2.png"/>
+<img src="assets/img/image2.png"/>
 
-<img src="/img/image3.png"/>
+<img src="assets/img/image3.png"/>
 
-<img src="/img/image4.png"/>
+<img src="assets/img/image4.png"/>
 
-<img src="/img/image5.png"/>
+<img src="assets/img/image5.png"/>
 
-<img src="/img/image6.png"/>
+<img src="assets/img/image6.png"/>
 
-<img src="/img/image7.png"/>
+<img src="assets/img/image7.png"/>
 
-<img src="/img/image8.png"/>
+<img src="assets/img/image8.png"/>
 
-<img src="/img/image9.png"/>
+<img src="assets/img/image9.png"/>
 
-<img src="/img/image10.png"/>
+<img src="assets/img/image10.png"/>
 
-<img src="/img/image11.png"/>
+<img src="assets/img/image11.png"/>
