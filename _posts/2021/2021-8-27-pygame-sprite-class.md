@@ -7,8 +7,6 @@ tags:  [python, pygame, game]
 
 watch me refuse to use a game engine
 
-You can download this project on the projects tab under "Pygame: Spritesheets & Tilemaps"
-
 ### Creating a way to draw tilemaps in Pygame
 
 Last week I decided to create something new in Pygame, and this time get far more complicated than a simple flappy bird game. I wanted to create some sort of RPG, with a world that I could create myself.
