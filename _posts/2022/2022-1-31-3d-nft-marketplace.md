@@ -1,7 +1,7 @@
 ---
 title: Starbits (A 3D NFT Marketplace)
 date: 2022-01-31 12:00:00 -0400
-categories: [Project]
+categories: [Project, Hackathon]
 tags:  [hackathon]
 ---
 
