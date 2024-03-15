@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-date: 2024-03-14 15:45:00 +/-TTTT
+date: 2024-03-14 03:14:00 -0400
 categories: [test]
 tags:  [test]     # TAG names should always be lowercase
 image:
