@@ -25,24 +25,24 @@ Something I'm very proud of is using a little bit of photoshop and Pillow (Pytho
 
 ## Screenshots of the game & Backend
 
-<img src="assets/img/image1.png"/>
+<img alt="screenshot" src="assets/img/image1.png"/>
 
-<img src="assets/img/image2.png"/>
+<img alt="screenshot" src="assets/img/image2.png"/>
 
-<img src="assets/img/image3.png"/>
+<img alt="screenshot" src="assets/img/image3.png"/>
 
-<img src="assets/img/image4.png"/>
+<img alt="screenshot" src="assets/img/image4.png"/>
 
-<img src="assets/img/image5.png"/>
+<img alt="screenshot" src="assets/img/image5.png"/>
 
-<img src="assets/img/image6.png"/>
+<img alt="screenshot" src="assets/img/image6.png"/>
 
-<img src="assets/img/image7.png"/>
+<img alt="screenshot" src="assets/img/image7.png"/>
 
-<img src="assets/img/image8.png"/>
+<img alt="screenshot" src="assets/img/image8.png"/>
 
-<img src="assets/img/image9.png"/>
+<img alt="screenshot" src="assets/img/image9.png"/>
 
-<img src="assets/img/image10.png"/>
+<img alt="screenshot" src="assets/img/image10.png"/>
 
-<img src="assets/img/image11.png"/>
+<img alt="screenshot" src="assets/img/image11.png"/>
