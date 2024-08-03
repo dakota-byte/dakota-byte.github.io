@@ -4,10 +4,12 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-this is just a curated list of random resources that I really love, and would like to stick somewhere!
+### my favorite things I've stumbled upon, in no particular order
 
-[Sololearn](https://www.sololearn.com): a platform to teach you how to code! great community, and this is where my story began in 2017 :)
-
-[CPU.Land](https://cpu.land): a beyond great introduction into how the CPU, OS, and syscalls work at a really low level.
-
-[Regexone](https://regexone.com/): regular expressions lesson/ notes, because i will NEVER remember it
+| key           | value         |
+| ------------- | ------------- |
+| [Sololearn](https://www.sololearn.com) | my origin story :D |
+| [CPU.Land](https://cpu.land) | super cool primer into CPUs, OSs, and system calls |
+| [Regexone](https://regexone.com/) | fun regex lessons to refer to |
+| [Crafting Interpreters](https://craftinginterpreters.com/) | a book on Interprets by Robert Nystrom, 10/10 author |
+| [Game Programming Patterns](https://gameprogrammingpatterns.com/) | also by Robert Nystrom! his illustrations are just top notch |
