@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa-book
+icon: fas fa-book
 order: 2
 ---
 
