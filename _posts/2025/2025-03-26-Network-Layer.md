@@ -5,6 +5,8 @@ categories: [Notes]
 tags:  []
 ---
 
+basic research on the Network Layer because I confuse the layers.
+
 ### Introduction
 
 The Network Layer is the third layer of the OSI model, and is the Internet layer of the TCP/IP model. It’s responsible for the **routing** (choosing a path) and **forwarding** (taking the path) of packets (or datagrams) through *routers*. As with any other layer, it provides services to the layer above it, and receives service from the layer below. In this case, the Network Layer powers the Transport Layer, and relies on the Data Link layer.
