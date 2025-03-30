@@ -12,3 +12,5 @@ order: 2
 | [Regexone](https://regexone.com/) | uncute regex, reference |
 | [Crafting Interpreters](https://craftinginterpreters.com/) | interpreter devel, good author |
 | [Game Programming Patterns](https://gameprogrammingpatterns.com/) | same author^, 10/10 illustrations |
+| [Cryptopals](https://cryptopals.com/) | crypto, fun |
+| [Challenges.re](https://challenges.re/) | rev, fun |
