@@ -2,10 +2,9 @@
 title: Network Layer
 date: 2025-03-26 12:00:00 -0400
 categories: [Notes]
+description: basic research on the Network Layer because I confuse the layers.
 tags:  []
 ---
-
-basic research on the Network Layer because I confuse the layers.
 
 ### Introduction
 
