@@ -1,0 +1,90 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Link from '../components/Link.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout title="circular :3">
+  <main class="p-8 w-full lg:w-1/2 text-left self-center text-ctp-text flex flex-col gap-8">
+    <div class="w-full">
+      <div class="my-4">
+        <h1 class="text-5xl font-bold bg-gradient-to-r from-ctp-pink via-ctp-mauve to-ctp-blue bg-[length:100%_3px] bg-no-repeat bg-bottom inline-block">dakota</h1>
+        <p class="text-opacity-25 text-ctp-text"><em>cybersecurity student</em></p>
+      </div>
+      <p>bachelors of computer science @ <a href="https://www.cs.stonybrook.edu/" class="hover:text-ctp-peach duration-100">stony brook university</a></p>
+    </div>
+
+    <div>
+      <h1 class="text-3xl font-bold">Socials</h1>
+      <div class="mt-2 flex flex-col">
+        <Link
+            title="dakota [DOT] levermann [AT] stonybrook.edu"
+            link="javascript:alert('find and replace time')"
+            icon_class="nf-md-email"
+            hover_color="hover:text-ctp-red"
+            />
+        <Link
+            title="Github"
+            link="https://github.com/dakota-byte"
+            icon_class="nf-fa-github"
+            hover_color="hover:text-ctp-text"
+            />
+        <Link
+            title="LinkedIn"
+            link="https://www.linkedin.com/in/dakota-levermann/"
+            icon_class="nf-fa-linkedin"
+            hover_color="hover:text-ctp-sapphire"
+            />
+      </div>
+    </div>
+    <div>
+      <h1 class="text-3xl font-bold">Projects</h1>
+      <div class="mt-2 flex flex-col">
+        <Link
+            title="http server"
+            link="https://github.com/dakota-byte/http-server"
+            icon_class="nf-fa-server"
+            hover_color="hover:text-ctp-red"
+            />
+        <Link
+            title="linux shell"
+            link="https://github.com/dakota-byte/http-deet"
+            icon_class="nf-fa-terminal"
+            hover_color="hover:text-ctp-yellow"
+            />
+        <Link
+            title="image xor"
+            link="https://github.com/dakota-byte/xor-image"
+            icon_class="nf-fa-images"
+            hover_color="hover:text-ctp-green"
+            />
+        <Link
+            title="scapy tools"
+            link="https://github.com/dakota-byte/scapy-tools"
+            icon_class="nf-fa-hammer"
+            hover_color="hover:text-ctp-blue"
+            />
+        <Link
+            title="kaminsky attack"
+            link="https://github.com/dakota-byte/kaminsky-attack"
+            icon_class="nf-fa-helicopter"
+            hover_color="hover:text-ctp-blue"
+            />
+        <Link
+            title="MineCord"
+            link="minecord"
+            icon_class="nf-fa-discord"
+            hover_color="hover:text-ctp-blue"
+            />
+        <Link
+            title="flappy bird"
+            link="https://github.com/dakota-byte/Flappy-Bird-Pygame"
+            icon_class="nf-fa-dove"
+            hover_color="hover:text-ctp-blue"
+            />
+      
+      </div>
+    </div>
+    <Footer />
+	</main>
+</Layout>
